@@ -128,6 +128,7 @@ PathCombo Completionmode=5
 Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
+Show Preview=false
 Show Speedbar=true
 Show hidden files=false
 Sort by=Name
@@ -136,6 +137,7 @@ Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=138
 View Style=DetailTree
+
 
 [WM]
 activeBackground=46,52,64

@@ -13,8 +13,13 @@ Rows=1
 BorderActivateAll=9
 
 [Plugins]
+blurEnabled=true
+kwin4_effect_fadedesktopEnabled=true
+kwin4_effect_fullscreenEnabled=false
+kwin4_effect_rubberband_maximizeEnabled=false
 kwin4_effect_squashEnabled=false
 magiclampEnabled=true
+slideEnabled=false
 
 [Tiling]
 padding=4
