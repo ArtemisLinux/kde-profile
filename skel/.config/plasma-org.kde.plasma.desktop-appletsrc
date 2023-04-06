@@ -21,7 +21,7 @@ ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=.config/wallpaper/0001.jpg
+Image=/usr/share/backgrounds/0001.jpg
 
 [Containments][8]
 activityId=
