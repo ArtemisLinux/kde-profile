@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Utterly Nord</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1903869</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>240</downloads>
+  <installedfile>/home/build/.local/share/konsole/Utterly-Nord-Konsole.colorscheme</installedfile>
+  <id>1903869</id>
+  <releasedate>2023-04-02</releasedate>
+  <summary>A Dark Nordic Color Scheme for Konsole with transparency&lt;br />
+&lt;br />
+To install, open Konsole, go to "Settings &amp;gt; Edit Current Profile... &amp;gt; Appearance &amp;gt; Get New..." and search for "Utterly Nord" and install it.&lt;br />
+&lt;br />
+Global Theme in Screenshots: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1903869/nord5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1903869/nord5.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODAzOTU0ODEiLCJvIjoiMSIsInMiOiJiOTgwZDE3MDNiNDVlZjRhMWQyOTQ2ZGNiYTQ3YWQ4OTViZDU2ZWEzYTg4MDBlNmYyZGFlYTU5ZDVhNWVjMzg2MjFlNGExZDBiNjlhODM0NGQzYjQyYTM0OWIwNzdlNWQzN2ViMmQwNWI2YmJlM2FiM2Q4YzdkZTI1NzQ5YWMxMCIsInQiOjE2ODA3MzM5NzUsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.e7LbbhoWY0RLw8rQAnbbbyT8k40GeoZ5eh7VIoQwjAk/Utterly-Nord-Konsole.colorscheme</payload>
+  <tags>gplv2-later,color,colors,konsole,addon,nord,nordic,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

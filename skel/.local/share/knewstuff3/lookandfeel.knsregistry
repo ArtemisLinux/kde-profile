@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Utterly Nord</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1904859</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>57</rating>
+  <downloads>381</downloads>
+  <installedfile>/home/build/.local/share/plasma/look-and-feel/Utterly-Nord</installedfile>
+  <id>1904859</id>
+  <releasedate>2023-04-04</releasedate>
+  <summary>A Global theme for Plasma 5 with transparency, blur, rounded edges for UI elements, Tela Circle Nord icons, Nord Color Palette and inspired wallpaper and a reasonable desktop layout with a top panel, dock and a Material You clock widget.&lt;br />
+&lt;br />
+&lt;br />
+ATTENTION: Installing the Global Theme...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1904859/nord1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1904859/nord1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODA1ODkwNjAiLCJvIjoiMSIsInMiOiJlMWI4ODI3ZjRmMDkxODI1YWJmZmU4NDA4Yjk5YWY0ODdhNWFiMmM0ZjMzOGM3ZjdmNDAwZmM0ZjBlZWI2MDhmZDE0NGZkNzkxNDdiZDk0ZmM2M2ViMDNlYzY1MTM3ZGI2MDljZWU5NDViNzQ3ODM0MTQ3ZjJjNWU3M2Y1OGMxZCIsInQiOjE2ODA3MzM3NjEsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.YBbIV1tYUSeauDT-PUaiX619DtGpy--APEw71-O4aaM/Utterly-Nord.tar.xz</payload>
+  <tags>gplv2-later,blur,plasma,nord,nordic,original-product,kde,linux,look-and-feel,round,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

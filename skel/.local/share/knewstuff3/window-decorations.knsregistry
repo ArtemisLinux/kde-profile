@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Utterly Round Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1999020</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>58</rating>
+  <downloads>2115</downloads>
+  <installedfile>/home/build/.local/share/aurorae/themes/Utterly-Round-Dark/*</installedfile>
+  <id>1999020</id>
+  <releasedate>2023-04-01</releasedate>
+  <summary>Rounded Window borders for KDE Plasma 5 desktop environment that can follow any light color scheme with transparency and blur&lt;br />
+&lt;br />
+* To blend window decoration with background, install and use the Color Scheme, Kvantum Theme and Konsole Color Scheme from the below Global Theme&lt;br />
+&lt;a href="https://www.pling.com/p/1904859/" target="_blank" rel="nofollow">Utterly Nord&lt;/a>, &lt;a href="https://store.kde.org/p/1906500/" target="_blank" rel="nofollow">Utterly Sweet&lt;/a>&lt;br />
+&lt;br />
+Key features:&lt;br />
+&lt;br />
+* Blends with Window background when appropriate Kvantum theme and Konsole Color Scheme is used&lt;br />
+* Rounded corners&lt;br />
+* Follows any light color scheme and hence is usable with any Global Theme&lt;br />
+* Supports transparency: Go to `System Settings &amp;gt; Workspace Behavior &amp;gt; Desktop Effects` and enable `Blur`, `Background Contrast` and `Tranlucency` for best result.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1999020/screenshot-20230307-170151.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1999020/screenshot-20230307-170151.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODAzNDUyNzEiLCJvIjoiMSIsInMiOiIxMzM3NWYzMDczM2JlMGE4OGJmMzQ2ZGY2ZTM3NzI2NDY4MzFlY2IyN2MzMGQ3NzBlM2EzOGY5NTI5YTgxOGU4ZWYzYjA1OTI0MmRmYjY0N2MxZjhhN2I2ZDhlYjQ5MDVlMjcyNWQ5MGFiN2ZiOTg3MTU4N2NjNzg1Y2NkOGUwMyIsInQiOjE2ODA3MzM3NjQsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.A1gvKY0RpbXjfFcDB5aYlzFwuHJwjxYfw7GL4vi93o0/Utterly-Round-Aurorae-Dark.tar.xz</payload>
+  <tags>gplv2-later,blur,blured,blurred,blurry,mac,linux,kde,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

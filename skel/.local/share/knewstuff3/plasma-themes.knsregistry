@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Utterly Round</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1901768</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>63</rating>
+  <downloads>1460</downloads>
+  <installedfile>/home/build/.local/share/plasma/desktoptheme/Utterly-Round</installedfile>
+  <id>1901768</id>
+  <releasedate>2023-04-04</releasedate>
+  <summary>A theme for KDE Plasma 5 desktop environment with transparency, blur and rounded cornerts for UI elements that can follow any color scheme.&lt;br />
+&lt;br />
+Key features:&lt;br />
+* Rounded corners for all widget elements&lt;br />
+* Follows any color scheme and hence is usable with any Global Themes&lt;br />
+* Material You clock widget&lt;br />
+* Supports transparency: Go to `System Settings &amp;gt; Workspace Behavior &amp;gt; Desktop Effects` and enable `Blur`, `Background Contrast` and `Tranlucency` for best result.&lt;br />
+&lt;br />
+Recommended Global Themes: &lt;a href="https://store.kde.org/p/1904859/" target="_blank" rel="nofollow">Utterly Nord&lt;/a> or &lt;a href="https://store.kde.org/p/1917104/" target="_blank" rel="nofollow">Utterly Nord Light&lt;/a>&lt;br />
+Wallpaper in Screenshots: &lt;a href="https://store.kde.org/p/1906464/" target="_blank" rel="nofollow">Utterly Sweet Wallpaper&lt;/a> and &lt;a href="https://store.kde.org/p/1904144/" target="_blank" rel="nofollow">Utterly Nord Wallpaper&lt;/a>&lt;br />
+Application menu in Screenshots: &lt;a href="https://store.kde.org/p/1819888" target="_blank" rel="nofollow">Simple Application Launcher&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1901768/logour1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1901768/logour1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODA1ODMxMjMiLCJvIjoiMSIsInMiOiJiNTY5YzIyYWY2NWE5MmNlODdmOWIwNjBlOGE5YWJmN2UzOGU4NzNlYWY0NDAyM2EyYWI3ODI3Y2M5ZGFjNGE2NGMxYTk1NTE3ZGUyMDQwOTI3Zjk0OGZlMDZlZTUwMDNmNmYyYjljMGI2YTBlZDU4ODY3NjJkNjc2MjMwNzYxZiIsInQiOjE2ODA3MzM3NzUsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.Vn83Dq7_RXtkNtph3hf-ewdrQL8cHERUSJQMQO8cPsg/Utterly-Round-Desktop.tar.xz</payload>
+  <tags>widgets,gplv2-later,blurry,rounded,unix,theme,kde,linux,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

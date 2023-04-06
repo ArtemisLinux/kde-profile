@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="425">
+  <name>Netspeed Widget</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/998895</homepage>
+  <licence></licence>
+  <version>1.9</version>
+  <rating>82</rating>
+  <downloads>225256</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.netspeedWidget</installedfile>
+  <id>998895</id>
+  <releasedate>2020-09-03</releasedate>
+  <summary>Plasma 5 widget that displays the currently used network bandwidth.&lt;br />
+&lt;br />
+The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;br />
+&lt;br />
+Required dependencies:&lt;br />
+&lt;br />
+ - ksysguard (provides the data engine)&lt;br />
+&lt;br />
+Optional dependencies:&lt;br />
+&lt;br />
+- plasma-addons (may be called plasma5-addons, kdeplasma-addons or similar - used to launch a user defined application when the applet is clicked)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/03/18/67/998895/19851d283f6d53dde8f2cb213a09d1adb805.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/03/18/67/998895/19851d283f6d53dde8f2cb213a09d1adb805.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTkxNTk5NzMiLCJvIjoiMSIsInMiOiJkNmIyNTY4ZmUxM2M4NWE5YTUxMjUyMjA2ZjhmZWFlNGVlYzY4YWQ1OTcwMWY4NTE2YTUxYzU5OGFmOWMwZTIyMGJjODc1ZDU0NTY4YjhlOTIyZmE0NDE1MGNlOTFjNDE3Yzg5ZmI5YWZmNTI1OGUzMDk1MGRkOTU4MjAxYmJkMiIsInQiOjE2ODA3MzM4MDksInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.QB7UQ2V2GQJcIMl2dgHdzcuLEJANdyJWq3Oqq4R_cPI/netspeed-widget-1.9.plasmoid</payload>
+  <tags>original-product,plasma##majorversion=5,plasma,network,gplv2-later,extension,unix,widget,kde,monitor,monitoring,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.7.1</version>
+  <rating>88</rating>
+  <downloads>153659</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDMyNDIiLCJvIjoiMSIsInMiOiI4Njk2NTI5OGQ4MTkyODFlYWY3ODUyZGU1ZDZiNDE4YzZkOGZjOWRlOTE3MjQ0YjFlY2JjY2NhYjNlMTkzZWY4MWFhZTI2ZTNmMzUyMWRhOGMxZmUyMDcxNTViZWYyYWVmZDg0YTVmNGI4MzFjOWNhZjFmYzkwZDM1YTVlNmNkYSIsInQiOjE2ODA3MzM0MzksInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.8ZmpRqfCjl9PIJAix5Y3Z5EX6AkAjoDOc87PUihft6k/applet-window-title-0.7.1.plasmoid</payload>
+  <tags>title,unix,widget,window,linux,kde,extension,gplv2,plasma##majorversion=5,plasma,original-product,panel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Window Buttons Applet Prebuilt</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1906579</homepage>
+  <licence></licence>
+  <version>0.11.1-prebuilt-1</version>
+  <rating>64</rating>
+  <downloads>6950</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.windowbuttons</installedfile>
+  <id>1906579</id>
+  <releasedate>2023-03-19</releasedate>
+  <summary>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/1272871/" target="_blank" rel="nofollow">Window Buttons Applet&lt;/a> by &lt;a href="https://store.kde.org/u/Psifidotos" target="_blank" rel="nofollow">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I modified it in any way. I published this prebuilt distribution so that it can be used a dependency for Plasma Global Themes.&lt;br />
+&lt;br />
+This can be installed directly from Plasma Widget explorer or by clicking the install button in this page. However, for this to work correctly, the libraries must be installed by running the below command:&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&lt;br />cd&amp;nbsp;&amp;amp;amp;&amp;amp;amp;&amp;nbsp;sudo&amp;nbsp;./.local/share/plasma/plasmoids/org.kde.windowbuttons/lib-install.sh&lt;br />&lt;/span>
+&lt;/code>&lt;br />
+To uninstall the libraries run:&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&lt;br />sudo&amp;nbsp;rm&amp;nbsp;-rf&amp;nbsp;/usr/lib/qt/qml/org/kde/appletdecoration/&lt;br />&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+NOTE: The libraries were built and will be continued to be built in Arch Linux running the latest available version of KDE Plasma. This may or may not work in other linux distribution or older Plasma versions. I do not intend to provide support if it does not work for you. In such a case you should consider building it yourself from &lt;a href="https://store.kde.org/p/1272871/" target="_blank" rel="nofollow">here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1906579/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzkxOTE0OTgiLCJvIjoiMSIsInMiOiJmY2Y5NmRjMjc4ZDNmMmM3ODcxZjI2YzI1YWM2M2IyMWMxZTg1NTAzZjAwZThjMjk1NWI4MmUyZDNkN2E3ZTYyNGYyZGVmOTg2OWQwZjllYzYyOGMzYmQyZWRkNmUwMDY0NTJmMzQ2MDc0ZTM2MzU4ZmM4MGYyOTE1MWRiMmM1YSIsInQiOjE2ODA3MzM4MTIsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.YbT1LHmTTPWX6z5T3EXaRXII7hGTx8e6-BHydauJP3E/Window-Buttons-Applet.plasmoid</payload>
+  <tags>gplv2-later,extension,plasma,plasma##majorversion=5,unix,widget,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Better Application Menu [An improved fork of Kicker]</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1897850</homepage>
+  <licence></licence>
+  <version>2.2</version>
+  <rating>62</rating>
+  <downloads>7242</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.plasma.betterkicker</installedfile>
+  <id>1897850</id>
+  <releasedate>2023-03-19</releasedate>
+  <summary>This is an improved fork of KDE Plasma's Kicker Application Menu which is a launcher based on cascading popup menus. The design is simplified while improving search features and customizability.&lt;br />
+&lt;br />
+Powerful Plasma Search&lt;br />
+The search bar uses `Plasma Search`, which is the same search provider used in Krunner, Kickoff Application Launcher and the Overview effect which supports powerful search plugins and providers.&lt;br />
+&lt;br />
+NOTE: The initial codebase was copied from Kicker which can be found in /usr/share/plasma/plasmoids/org.kde.plasma.kicker/, on every Linux system that has KDE Plasma installed.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1897850/20220905-172732-nordic.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1897850/20220905-172732-nordic.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzkxOTE2OTciLCJvIjoiMSIsInMiOiJkNWQwYzhiZWY1OTk4MzM0ZWJlYjY1NGVjOTZlOTZmOTJlYWJhZjA1YzRiNTQ2YjNjNzBhM2EzYWY5ZDllZTMwZGY1NzNlMjcxYjRlZTExN2E0YjNiZGZjMjA0OWNiMzU1OTE1NWFjZjAxMzI2ZmY3ZTA1NjBhZjk2Yzg1Y2E3OCIsInQiOjE2ODA3MzM3ODEsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.wjL41sWgKa6WRB9XVeqhUHSrXAlivn1zIVw1pQVHikk/Better-Kicker-2.2.plasmoid</payload>
+  <tags>gplv2-later,efi,extension,appmenu,widget,plasma,plasma##majorversion=5,startmenu,unix,linux,launcher,kde,kicker,menu</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Better inline clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1245902</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>82</rating>
+  <downloads>256405</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
+  <id>1245902</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>The hottest clock around!&lt;br />
+· Formats not found in any other clock, including custom!&lt;br />
+· Disable the separator with a simple check box!&lt;br />
+· Option for manual font size!&lt;br />
+· Correctly calculated width at any time and date!&lt;br />
+· Manual spacing and offsetting!&lt;br />
+·...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiJmOWFkZmNjN2EzYTUwOTE4YTcyZGY5YzU1NTdlNGFlZWZhODcxM2Q5ZDE4ZWRiMTBhYjhhZmYyYjc4OTg5NjZkYzFhODNjMTNiODc1MDQ0NjZiZGIyMjI5M2U1Y2QwOGE2MzI4MWFlMTAyMDVhOTJkOTgyM2U3ZTZkMzhkMjYzYiIsInQiOjE2ODA3MzM0NjIsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.S8hxMNH_DnOnM3o3PuFMJWvzaKKCy8qWn6pHnXSkTuI/betterinlineclock.tar.gz</payload>
+  <tags>linux,kde,modification-product,gplv3,clock,extension,widget,unix,plasma##majorversion=5,plasmoid,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Simple Application Launcher [A minimalized fork of kickoff]</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1819888</homepage>
+  <licence></licence>
+  <version>2.5</version>
+  <rating>64</rating>
+  <downloads>7704</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.plasma.simplekickoff</installedfile>
+  <id>1819888</id>
+  <releasedate>2023-03-19</releasedate>
+  <summary>This is a simplified fork of Kickoff which is KDE Plasma Desktop's default Application launcher. The design is minimalized without compromising on power and important features.&lt;br />
+&lt;br />
+Powerful Plasma Search&lt;br />
+The search bar uses Plasma Search, which is the same search provider used in the default Kickoff, Krunner and the Overview effect which supports powerful plugins.&lt;br />
+&lt;br />
+NOTE: The initial codebase was copied from Kickoff which can be found in /usr/share/plasma/plasmoids/org.kde.plasma.kickoff/, on every Linux system that has KDE Plasma installed.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1819888/nordic-round-grid.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1819888/nordic-round-grid.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzkxOTIwMjgiLCJvIjoiMSIsInMiOiI3MWM5NzM1Nzk4Y2M1MTg2MDhlZGNkNjFmMDIyZGI0NWYxYjc4OGE0YjlhNzBjN2E0YWUxNDY5OGEyMjI2MjNhZDg5Mzc4ODJhN2I4YzUyOTk4Zjg2MDBhYThkNTJhZGQwZmU4Y2Y5YTJhNWNiMzgwYjY0NzUwNzAwMzUxNWVmZCIsInQiOjE2ODA3MzM3NzcsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.BKpCQ3PP-K267t6jM3UGrnv6L40O70G1fo7PdX5Mp8U/Simple-Kickoff.plasmoid</payload>
+  <tags>widget,plasma##majorversion=5,plasma,launcher,linux,kickoff,kde,menu,unix,startmenu,gplv2-later,extension,efi,appmenu</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Simple Pager Virtual Desktop</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1364071</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>70</rating>
+  <downloads>53552</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/SimplePager</installedfile>
+  <id>1364071</id>
+  <releasedate>2020-03-02</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong> Simple pager for virtual desktops.&lt;/strong>&lt;/span> &lt;br />
+&lt;br />
+Indicator for virtual desktops - Plasma&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Installation&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1364071/ca9f14ffb5fd219b26ab01b272f79f6d2b35.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1364071/ca9f14ffb5fd219b26ab01b272f79f6d2b35.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODMyMDk4MTYiLCJvIjoiMSIsInMiOiI0Y2ExNDQ3ODJmZjM4NDExYmM2OThkOTNmMTBmMjJjMDhkMGVmOGQ2N2VmZDMwOTAwMjQ4Y2Y0ZjAzNGIwNDgyMDY5MGEzMDYxZDA4NWViOGY2ZTlhYmNmZGQ1YjhhYjYzNjcwNTc2NjU4NjZiNjUwZjVhMTQ2MGQ3MmZhZjI5NyIsInQiOjE2ODA3MzM1OTgsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.KcQJueAQIXmtRof7kYe1cxD9FilQK2YS4O0QQV3qy9g/SimplePager.plasmoid</payload>
+  <tags>linux,kde,indicator,gplv3,unix,plasma##majorversion=5,plasma,original-product,widget,desktops,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Latte Separator</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1295376</homepage>
+  <licence></licence>
+  <version>0.1.2</version>
+  <rating>81</rating>
+  <downloads>39616</downloads>
+  <installedfile>/home/build/.local/share/plasma/plasmoids/org.kde.latte.separator</installedfile>
+  <id>1295376</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>Plasma 5 applet that acts as a separator between applets. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;strong>Features:&lt;/strong>&lt;br />
+ * option for thickness margins&lt;br />
+ * option for length margins</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1295376/1c26dcae9451538080281b82912d56c000ae.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1295376/1c26dcae9451538080281b82912d56c000ae.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjQwMDQyODQiLCJvIjoiMSIsInMiOiJmMDRiMzAwNGY3NGNmNzlmMTkyNmZiNGRiNmVkZTNmMGFkYTMzM2I4ZTM1NjlmM2IwNTEzMDAzYzI2ZjcwYWI4ZmY0OWUxNmJjNzk4MTlmMDVmMmNlYzA1OTEyNzVhNmM0MTRlOWFiNmFlNDBjMzViMjk5OWY1NTdjZGNlOWQ5MiIsInQiOjE2ODA3MzM0NTAsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.yN3cGTul7Fdf4EhNFY8Ivm5CKLMCybII04ZEPciYWpY/applet-latte-separator-0.1.2.plasmoid</payload>
+  <tags>plasma,plasma##majorversion=5,original-product,extension,gplv2-later,widget,kde,linux,separator,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

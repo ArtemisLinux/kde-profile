@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Utterly Nord</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1904144</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>57</rating>
+  <downloads>3303</downloads>
+  <installedfile>/home/build/.local/share/wallpapers/Utterly-Nord/*</installedfile>
+  <id>1904144</id>
+  <releasedate>2023-03-19</releasedate>
+  <summary>A Nordic Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/1904144/nord-lake-720p.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/1904144/nord-lake-720p.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzkxOTEzOTEiLCJvIjoiMSIsInMiOiI4YjQ2NWM0OTVjNzE1MzUzMmY5MTY2YzgyMmVlYjlhNGY2NDMyYTk5YTNhNjI3ZTRhMThkMjMwNjM0YjljOTU3ZTkwMmFhYTA4Nzc2YjNhYWEwMDBjODdhODgzNTY2YzMxZDQ2ZTQ4YTZkZjRjN2MyNzU5YjBiMWE3ZDRkZmYyMCIsInQiOjE2ODA3MzM4MjIsInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.mlSz7rbqWDIGqbokRKzDIexZuIv49H4nJnsDmWpn2WE/Utterly-Nord-Wallpaper.tar.xz</payload>
+  <tags>wallpaper,nord,nordic,plasma,kde,efi,gplv2-later,artwork,ultrahd</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
